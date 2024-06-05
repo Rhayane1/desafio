@@ -14,12 +14,12 @@ body{
 }
 nav{
     height: 50px;
-    background-color: #EE82EE;
+    background-color: #B0E0E6;
     display: flex;
     justify-content: space-between;
     padding: 10px;
 }
 a{
     text-decoration: none;
-    color:#FF1493
+    color:#40E0D0
 }
