@@ -36,3 +36,15 @@ a:hover{
     padding: 5px;
     cursor: copy;
 }
+.btn:hover{
+    background-color: dimgrey;
+    color: pink;
+    transition: 0.3s all;
+}
+.main-site{
+    text-align: center;
+}
+.image{
+    width: 100%;
+    height: auto;
+}
